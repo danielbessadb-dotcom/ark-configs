@@ -1,1 +1,4 @@
 ServerPVE=False
+HarvestAmountMultiplier=5.0
+XPMultiplier=5.0
+TamingSpeedMultiplier=5.0
